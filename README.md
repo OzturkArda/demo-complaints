@@ -1,4 +1,4 @@
-# demo-complaints
+# demo-complaints-statistics
 Axon test project
 
 # Data creation script
